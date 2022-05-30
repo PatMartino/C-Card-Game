@@ -1,0 +1,3 @@
+C:/Users/kaanc/Desktop/Proje/Yeni4/cmake-build-debug/CMakeFiles/Yeni4.dir
+C:/Users/kaanc/Desktop/Proje/Yeni4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kaanc/Desktop/Proje/Yeni4/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/kaanc/Desktop/Proje/Yeni4/main.cpp
+iostream
+-
+memory
+-
+vector
+-
+algorithm
+-
+random
+-
+time.h
+-
+chrono
+-
+

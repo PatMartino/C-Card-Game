@@ -1,4 +1,4 @@
-// Yıldırım Kaan Çuhadar, Berke Şiranur, Tolga Üredi
+
 #include <iostream>
 #include <memory>
 #include <vector>
